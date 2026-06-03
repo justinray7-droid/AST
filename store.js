@@ -11,8 +11,8 @@
 =================================================================== */
 (function () {
   // ---- 1. CONFIG — paste your Supabase project values here ----------
-  const SUPABASE_URL      = ""; // e.g. "https://xxxx.supabase.co"
-  const SUPABASE_ANON_KEY = ""; // e.g. "eyJhbGci..."
+   const SUPABASE_URL      = "https://qaudmqhbltncpbqskvzd.supabase.co";
+  const SUPABASE_ANON_KEY = "sb_publishable_lL3UE9HqHspcono1BycVTg_TDhqN9J3";
   // (Run schema.sql in the Supabase SQL editor first — see README.md)
 
   // ---- 2. tournament definition (seed) ------------------------------
